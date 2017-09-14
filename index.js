@@ -23,7 +23,7 @@ function iLoveTheBeatles(number) {
   number = 0;
   do {
     array.push(number);
-    
+
   } while (true);
   text += "I love the Beatles!"
 }
