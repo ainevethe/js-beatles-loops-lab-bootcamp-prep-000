@@ -20,12 +20,10 @@ function johnLennonFacts(factoid) {
 
 function iLoveTheBeatles(number) {
   array = [];
-  number = 0;
   do {
-    array.push(number);
-
+    array.push("I love the Beatles!");
+    number++;
   } while (true);
-  text += "I love the Beatles!"
 
 
 return array;
