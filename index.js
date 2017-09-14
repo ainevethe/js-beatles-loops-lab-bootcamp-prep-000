@@ -5,7 +5,7 @@ function theBeatlesPlay(musician, instrument) {
     pairing.push(musician[i] + ' plays ' + instrument[i]);
   }
   return pairing;
-};
+}
 
 
 function johnLennonFacts(factoid) {
