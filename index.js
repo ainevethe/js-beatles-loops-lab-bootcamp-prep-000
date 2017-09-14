@@ -26,4 +26,7 @@ function iLoveTheBeatles(number) {
 
   } while (true);
   text += "I love the Beatles!"
+
+
+return array;
 }
